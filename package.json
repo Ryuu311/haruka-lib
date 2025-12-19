@@ -1,0 +1,22 @@
+{
+  "name": "@ryuu-reinzz/haruka-lib",
+  "version": "1.0.14",
+  "description": "Library extra for bot WhatsApp",
+  "main": "main/index.js",
+  "type": "module",
+  "author": "RyuuReinzz",
+  "license": "MIT",
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "haruka",
+    "nodejs",
+    "ryuu-kun",
+    ":v"
+  ],
+  "dependencies": {
+    "better-sqlite3": "^12.5.0",
+    "node-fetch": "^2.6.1",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
